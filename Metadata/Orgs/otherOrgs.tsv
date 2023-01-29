@@ -1,0 +1,37 @@
+id	név	name	role
+org.AB	Alkotmánybíróság	Constitutional Court of Hungary	ngo
+org.ASZ	Állami Számvevőszék	State Audit Office of Hungary	ngo
+org.EUB	Európai ügyek bizottsága	Committee on European Affairs	committee
+org.FFB	Fenntartható fejlődés bizottsága	Committee on Sustainable Development	committee
+org.GB	Gazdasági bizottság	Committee on Economics	committee
+org.GVH	Gazdasági Versenyhivatal	Hungarian Competition Authority 	ngo
+org.HRB	Honvédelmi és rendészeti bizottság	Committee on Defence and Law Enforcement	committee
+org.HB	Hungarikum Bizottság	Hungarikum Committee	committee
+org.IB	Igazságügyi bizottság	Committee on Justice	committee
+org.KB	Költségvetési bizottság	Committee on Budget	committee
+org.KT	Költségvetési Tanács	Fiscal Council of Hungary	committee
+org.KultB	Kulturális bizottság	Committee on Culture	committee
+org.K	Kúria	Curia of Hungary	ngo
+org.KulB	Külügyi bizottság	Committee on Foreign Affairs	committee
+org.LU	Legfőbb Ügyészség	Attorney General's Office	ngo
+org.MNB	Magyar Nemzeti Bank	Hungarian National Bank 	ngo
+org.MNB-fel	Magyar Nemzeti Bank felügyelőbizottsága	Supervisory Board of the Hungarian National Bank 	committee
+org.MNB-MT	Magyar Nemzeti Bank Monetáris Tanácsa	Monetary Council of the Hungarian National Bank	committee
+org.MNemzB	Magyarországi nemzetiségek bizottsága	Committee on Nationalities in Hungary	committee
+org.MB	Mentelmi bizottság	Committee on Immunity	committee
+org.MezoB	Mezőgazdasági bizottság	Committee on Agriculture	committee
+org.NMHH	Nemzeti Média- és Hírközlési Hatóság	National Media and Infocommunications Authority	ngo
+org.NMHH-MT	Nemzeti Média- és Hírközlési Hatóság Médiatanácsa	Media Council of the National Media and Communications Authority	committee
+org.NOB	Nemzeti Összetartozás Bizottsága	Committee on National Cohesion	committee
+org.NVB	Nemzeti Választási Bizottság	National Election committee	committee
+org.NVI	Nemzeti Választási Iroda	National Election Office	ngo
+org.NB	Népjóléti bizottság	Committee on Social Welfare	committee
+org.OBH	Országos Bírósági Hivatal	National Judicial Office	ngo
+org.TB	Törvényalkotási Bizottság	Committee on Legislation 	committee
+org.VB	Vállalkozásfejlesztési bizottság	Committee on Business Development	committee
+org.NVedB	Nemzetbiztonsági Bizottság	Commitee on National Security	committee
+org.KozK	Közszolgálati Közalapítvány Kuratórium	Public Service Public Foundation Board of Trustees	committee
+EC	Európai Bizottság	EuropeanCommission	europeanCommission
+REP	Magyar köztársaság	Republic of Hungary	republic
+EP	Európai Parlament	European Parliament	europeanParliament
+org.ECA	Európai Számvevőszék 	European Court of Auditors	europeanInstitution

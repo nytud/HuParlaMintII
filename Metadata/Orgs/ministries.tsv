@@ -1,0 +1,18 @@
+id	név	name	role	from	to 
+ministry.Agrar	Agrárminisztérium	Ministry of Agriculture	ministry	2018-05-18	
+ministry.Bel	Belügyminisztérium	Ministry of Interior	ministry	2014-06-06	
+ministry.Epites	Építési és Beruházási Minisztérium	Ministry for Construction and Investment	ministry	2022-05-24	
+ministry.Hon	Honvédelmi Minisztérium	Ministry of Defence	ministry	2014-06-06	
+ministry.Igazsag	Igazságügyi Minisztérium	Ministry of Justice	ministry	2014-06-06	
+ministry.KIM	Kulturális és Innovációs Minisztérium	Ministry for Innovation and Technology	ministry	2022-05-24	
+ministry.Kul	Külgazdasági és Külügyminisztérium	Ministry of Foreign Affairs and Trade	ministry	2014-06-06	
+ministry.Kabi	Miniszterelnöki Kabinetiroda	Cabinet Office of the Prime Minister	ministry	2015-10-01	
+ministry.Min	Miniszterelnökség	Prime Minister’s Office	ministry	2014-06-06	
+ministry.Penz	Pénzügyminisztérium	Ministry of Finance 	ministry	2018-05-18	
+ministry.TIM	Technológiai és Ipari Minisztérium	Ministry for Technology and Industry	ministry	2022-05-24	
+ministry.Emmi	Emberi Erőforrások Minisztériuma	Ministry of Human Capacities	ministry	2014-06-06	2022-05-23
+ministry.Fold	Földművelésügyi Minisztérium	Ministry of Agriculture	ministry	2014-06-06	2018-05-17
+ministry.NGM	Nemzetgazdasági Minisztérium	Ministry of National Economy	ministry	2014-06-06	2018-05-17
+ministry.NFM	Nemzeti Fejlesztési Minisztérium	Ministry of National Development	ministry	2014-06-06	2018-05-17
+ministry.ITM	Innovációs és Technológiai Minisztérium	Ministry for Innovation and Technology	ministry	2018-05-18	2022-05-23
+ministry.MinK	Miniszterelnöki Kormányiroda	Prime Ministerial Government Office	ministry	2018-05-18	
