@@ -1,0 +1,414 @@
+parlaid	role	párt ref	from	to (ha most is, akkor üres)
+AghPeter	member	party.Fidesz	1999	
+AnderBalazs	member	party.JOBBIK	2010	
+AnderBalazs	deputyHead	party.JOBBIK	2020-01-25	
+ApatiIstvan	member	party.JOBBIK	2005	2018-10-08
+ApatiIstvan	deputyHead	party.JOBBIK	2014-06-21	2016-05-29
+ApatiIstvan	deputyHead	party.JOBBIK	2018-05-18	2018-10-08
+ApatiIstvan	deputyHead	party.MiHazank	2018-06-23	
+ApatiIstvan	member	party.MiHazank	2018-06-23	
+AradszkiAndras	member	party.KDNP	1990	
+AratoGergely	member	party.DK	2011-10-22	
+AzbejTristan	member	party.KDNP	2010	
+AzbejTristan	deputyHead	party.KDNP	2020-01-18	
+BagdyGabor	member	party.KDNP	2002	
+BagdyGabor	deputyHead	party.KDNP	2010-12-18	
+BajkaiIstvan	member	party.Fidesz	1998	
+BakosBernadett	member	party.LMP1	2017	2020-02-01
+BakosBernadett	member	party.LMP2	2020-02-01	
+BalassaPeter	member	party.JOBBIK	2009	
+BalczoZoltan	member	party.JOBBIK	2003-10-24	
+BallaGyorgy	member	party.Fidesz	2014-06-06	
+BallaMihaly	member	party.Fidesz	2014-06-06	
+BalogZoltan	member	party.Fidesz	2014-06-06	2018-10-17
+BanaTibor	member	party.JOBBIK	2007	2020-01-25
+BanaTibor	deputyHead	party.JOBBIK	2018-05-12	2020-01-25
+BangoneBorbelyIldiko	member	party.MSZP	2014-06-06	2022-01-23
+BankiErik	member	party.Fidesz	1998-06-18	
+BanyaiGabor	member	party.Fidesz	2006-05-16	
+BarandyGergely	member	party.MSZP	2003	
+BarczaAttila	member	party.Fidesz	2018-05-18	
+BarkocziBalazs	member	party.DK	2019	
+BartosMonika	member	party.Fidesz	2010-05-14	
+BecsoKaroly	member	party.Fidesz	2002	
+BecsoZsolt	member	party.Fidesz	1998-06-18	
+BedoDavid	member	party.Momentum	2017-03-04	
+BencsikJanos	member	party.Fidesz	2006-05-16	
+BenczeJanos	member	party.JOBBIK	2008	
+BeneIldiko	member	party.Fidesz	2000	
+BerkiSandor	member	party.Parbeszed	2017	
+BNagyLaszlo	member	party.Fidesz	2014-06-06	
+BodoSandor	member	party.Fidesz	2011-10-24	
+BoldogIstvan	member	party.Fidesz	2010-05-14	2022-05-01
+BonaZoltan	member	party.Fidesz	2014-06-06	
+BoroczLaszlo	member	party.Fidesz	2018-05-18	
+BoszAnett	member	party.MLP	2013-04-27	
+BoszAnett	head	party.MLP	2019-12-01	
+BrennerKoloman	member	party.JOBBIK	2015	
+BudaiGyula	member	party.Fidesz	1998	
+BuranySandor	member	party.MSZP	1994-06-28	
+CsanyiTamas	member	party.JOBBIK	2019-02-18	
+CsardiAntal	member	party.LMP1	2009-02-14	2020-02-01
+CsardiAntal	member	party.LMP2	2020-02-01	
+CsehKatalin	member	party.Momentum	2017-03-04	
+CsengerZalanZsolt	member	party.Fidesz	2014-06-06	
+CsepreghyNandor	member	party.Fidesz	2003	
+CseresnyesPeter	member	party.Fidesz	1998	
+CsiziPeter	member	party.Fidesz	1998	
+CsoborKatalin	member	party.Fidesz	2005	
+CzervanGyorgy	member	party.Fidesz	1998-06-18	
+CzombaSandor	member	party.Fidesz	2014-06-06	
+CzunyineDrBertalanJudit	member	party.Fidesz	2010-05-14	
+DankoBela	member	party.Fidesz	1998	
+DemeterMarta	member	party.MSZP	2007	2017-01-31
+DemeterMarta	member	party.LMP1	2017-12-08	2020-02-01
+DemeterMarta	head	party.LMP1	2018-10-20	2019-11-23
+DemeterMarta	member	party.LMP2	2020-02-01	
+DemeterZoltan	member	party.Fidesz	1998	
+DocsDavid	deputyHead	party.MiHazank	2018-06-23	
+DocsDavid	member	party.MiHazank	2018-06-23	
+DomokosLaszlo	member	party.Fidesz	1998	
+DomotorCsaba	member	party.Fidesz	2014-06-06	
+DonathAnna	head	party.Momentum	2021-11-21	2022-05-29
+DonathAnna	member	party.Momentum	2016	
+DudasRobert	member	party.JOBBIK	2009	
+DudasRobert	deputyHead	party.JOBBIK	2020-01-25	
+DunaiMonika	member	party.Fidesz	1990	
+DuroDora	member	party.JOBBIK	2005	2018
+DuroDora	deputyHead	party.MiHazank	2018-06-23	
+DuroDora	member	party.MiHazank	2018-06-23	
+EgyedZsolt	member	party.JOBBIK	2010	
+FarkasGergely	member	party.JOBBIK	2003-10-24	2020-05-27
+FarkasSandor	member	party.Fidesz	1993	
+FazekasSandor	member	party.Fidesz	2014-06-06	
+FeketeGyorAndras	head	party.Momentum	2017-03-04	2021-10-10
+FeketeGyorAndras	member	party.Momentum	2017-03-04	
+FenyvesiZoltan	member	party.Fidesz	1997	
+FenyvesiZoltan	member	party.KDNP	2006	
+FirtlMatyas	member	party.KDNP	1989	
+FirtlMatyas	member	party.Fidesz	1997	
+FKovacsSandor	member	party.Fidesz	2000	
+FodorGabor	head	party.MLP	2013-04-27	2019-08-27
+FodorGabor	member	party.MLP	2013-04-27	
+FoldiLaszlo	member	party.KDNP	2010	
+FonagyJanos	member	party.Fidesz	2014-06-06	
+FontSandor	member	party.Fidesz	2014	
+FulopErik	member	party.JOBBIK	2010	2018-10-08
+FulopErik	member	party.MiHazank	2018-10-09	
+FulopErik	deputyHead	party.JOBBIK	2016-05-29	2018-05-12
+FurjesBalazs	member	party.Fidesz	1988-03-30	
+GaalGergely	member	party.Fidesz	2004	
+GaalGergely	member	party.KDNP	2006	
+GalambosDenes	member	party.Fidesz	2014-06-06	
+GalKinga	deputyHead	party.Fidesz	2013	2017-09-19
+GalKinga	deputyHead	party.Fidesz	2021-11-14	
+GalKinga	member	party.Fidesz	2004	
+GelencserAttila	member	party.Fidesz	2010	
+GelencserFerenc	member	party.Momentum	2017-03-04	
+GelencserFerenc	head	party.Momentum	2022-05-29	
+GogosZoltan	member	party.MSZP	1989-11-21	
+GogosZoltan	deputyHead	party.MSZP	2014-07-19	2018-04-10
+GreczyZsolt	member	party.DK	2018	
+GulyasGergely	member	party.Fidesz	2005	
+GulyasGergely	deputyHead	party.Fidesz	2015-12-10	2019-09-29
+GurmaiZita	deputyHead	party.MSZP	2020-09-19	
+GurmaiZita	member	party.MSZP	1993	
+GurNandor	member	party.MSZP	1999	
+GurNandor	deputyHead	party.MSZP	2012	2014
+GurNandor	deputyHead	party.MSZP	2016-06-25	2018-06-17
+GyNemethErzsebet	deputyHead	party.DK	2020-03-01	
+GyNemethErzsebet	member	party.DK	2011-10-22	
+GyongyosiMarton	member	party.JOBBIK	2006	
+GyongyosiMarton	deputyHead	party.JOBBIK	2018-05-12	2022-07-02
+GyongyosiMarton	head	party.JOBBIK	2022-07-02	
+GyoparosAlpar	member	party.Fidesz	2009	
+GyorffyBalazs	member	party.Fidesz	2010	
+GyurcsanyFerenc	member	party.MSZP	2007	2010
+GyurcsanyFerenc	member	party.DK	2011-10-22	
+GyurcsanyFerenc	head	party.DK	2011-10-22	
+GyureCsaba	member	party.JOBBIK	2004	
+HadhazyAkos	member	party.LMP1	2014	2018-04-09
+HadhazyAkos	head	party.LMP1	2016-07-16	2018-04-09
+HadhazySandor	member	party.Fidesz	1998	
+HajduLaszlo	member	party.MSZP	1989-11-21	2010
+HajnalMiklos	member	party.Momentum	2017-03-04	
+HalaszJanos	member	party.Fidesz	1998	
+HarangozoGabor	member	party.MSZP	2000	
+HarangozoTamas	member	party.MSZP	2010	
+HargitaiJanos	member	party.KDNP	1994	
+HargitaiJanos	deputyHead	party.KDNP	2015-03-21	2020-01-18
+HarrachPeter	member	party.KDNP	1989	
+HarrachPeter	deputyHead	party.KDNP	2010-12-18	
+HegedusAndrea	member	party.DK	2019	
+HegedusLorantne	member	party.JOBBIK	2010	2020-01-25
+HegedusLorantne	deputyHead	party.JOBBIK	2018-05-12	2020-01-25
+HegyiGyula	member	party.MSZP	1995-03-15	
+HegyiGyula	deputyHead	party.MSZP	2018-06-17	
+HejjDavid	member	party.Fidesz	2018	
+HendeCsaba	member	party.Fidesz	2004	
+HerczegTamas	member	party.Fidesz	2018	
+HerczegZsolt	member	party.Fidesz	2010	
+HeringesAnita	member	party.MSZP	2003	
+HillerIstvan	member	party.MSZP	1989-11-21	
+HirtFerenc	member	party.Fidesz	2006	2018-12-07
+HiszekenyDezso	member	party.MSZP	2014	
+HoffmannRozsa	member	party.Fidesz	2003	
+HohnKrisztina	member	party.UK	2016-04-20	
+HohnKrisztina	head	party.UK	2016-04-20	
+HollikIstvan	member	party.Fidesz	2004	
+HollikIstvan	member	party.KDNP	2004	
+HolvenyiGyorgy	deputyHead	party.KDNP	2020-01-18	
+HolvenyiGyorgy	member	party.KDNP	1989	
+HoppalPeter	member	party.Fidesz	2004	
+HorcsikRichard	member	party.Fidesz	1998	
+HorvathImre	member	party.MSZP	2006	2017-11-22
+HorvathIstvan	member	party.Fidesz	2006	
+HorvathLaszlo	member	party.Fidesz	1990	
+HubayGyorgy	member	party.Fidesz	2018	
+IkotityIstvan	member	party.LMP1	2009-02-14	2019-03-21
+IllesBoglarka	member	party.Fidesz	2019	
+JakabIstvan	member	party.Fidesz	2010	
+JakabPeter	member	party.JOBBIK	2009	
+JakabPeter	head	party.JOBBIK	2020-01-25	2022-06-08
+JavorBenedek	head	party.Parbeszed	2013-02-17	2014-06-15
+JavorBenedek	member	party.Parbeszed	2013-02-17	
+JozsaIstvan	member	party.MSZP	1989-11-21	
+JuhaszHajnalka	member	party.KDNP	2009	
+JuhaszHajnalka	deputyHead	party.KDNP	2020-01-18	
+KallaiMaria	member	party.Fidesz	2018-05-18	
+KalloGergely	member	party.JOBBIK	2008	
+KalmanOlga	member	party.DK	2019-11-10	
+KanaszNagyMate	member	party.LMP1	2010	2020-02-01
+KanaszNagyMate	member	party.LMP2	2020-02-02	
+KanaszNagyMate	head	party.LMP2	2020-08-30	2022-08-27
+KaraAkos	member	party.Fidesz	2010	
+KepliLajos	member	party.JOBBIK	2010	2019-06-25
+KerenyiJanos	member	party.Fidesz	1998	
+KeresztesLaszloLorant	head	party.LMP1	2018-05-26	2019-05-26
+KeresztesLaszloLorant	member	party.LMP1	2018-05-26	2020-02-01
+KeresztesLaszloLorant	member	party.LMP2	2022-02-01	
+KeszZoltan	member	party.Fidesz	2004	2004
+KissLaszlo	member	party.MSZP	1996	2020
+KissLaszlo	member	party.DK	2020	
+KocsisCakeOlivio	member	party.Parbeszed	2013-02-17	
+KocsisMate	member	party.Fidesz	2006	
+KomaromiZoltan	member	party.EGYUTT	2013-03-08	2018-06-02
+KomaromiZoltan	member	party.DK	2019	
+KomjathiImre	member	party.MSZP	2014	
+KomjathiImre	deputyHead	party.MSZP	2018-06-17	
+KonczFerenc	member	party.Fidesz	2006	
+KonczZsofia	member	party.Fidesz	2005	
+KontratKaroly	member	party.Fidesz	2002	
+KonyaPeter	member	party.EGYUTT	2013-03-08	2015
+KordasLaszlo	member	party.DK	2021-09-19	
+KorozsLajos	member	party.MSZP	1989-11-21	
+KosaLajos	member	party.Fidesz	1988-03-30	
+KosaLajos	deputyHead	party.Fidesz	2013	2015-12-10
+KosaLajos	deputyHead	party.Fidesz	2019-09-29	
+KovacsJozsef	member	party.Fidesz	2010	
+KovacsSandor	member	party.Fidesz	2000	
+KovacsZoltan	member	party.Fidesz	1988-03-30	
+KucsakLaszlo	member	party.Fidesz	2010	
+KulcsarGergely	member	party.JOBBIK	2004	2020
+KunhalmiAgnes	member	party.MSZP	2014	
+KunhalmiAgnes	head	party.MSZP	2020-09-19	
+LangZsolt	member	party.Fidesz	1990	
+LaszloImre	member	party.DK	2015	
+LaszloTamas	member	party.Fidesz	2010	
+LatorcaiJanos	member	party.KDNP	1993	
+LazarJanos	member	party.Fidesz	2000	
+LazarJanos	member	party.KDNP	2002	
+LazarJanos	deputyHead	party.Fidesz	2013	2015-12-10
+LegenyZsolt	member	party.MSZP	2006	
+LezsakSandor	member	party.Fidesz	2006	
+LocseiLajos	member	party.Momentum	2020-02-15	
+LukacsLaszloGyorgy	member	party.JOBBIK	2010	
+LukacsLaszloGyorgy	deputyHead	party.JOBBIK	2020-01-25	
+LukacsZoltan	member	party.MSZP	1993	
+LukacsZoltan	deputyHead	party.MSZP	2014-07-19	2016-06-25
+MagyarZoltan	member	party.JOBBIK	2007	
+MagyarZoltan	deputyHead	party.JOBBIK	2022-05-07	
+ManningerJeno	member	party.Fidesz	2002	
+MatraiMarta	member	party.Fidesz	1993	
+MenczerTamas	member	party.Fidesz	2020-07-02	
+MengyiRoland	member	party.Fidesz	2010	
+MesterhazyAttila	deputyHead	party.MSZP	2009	2014-05
+MesterhazyAttila	member	party.MSZP	2009	2014-05
+MirkoczkiAdam	member	party.JOBBIK	2008	2020
+MolnarAgnes	member	party.Fidesz	2010	
+MolnarGyula	member	party.MSZP	1989-11-21	2021
+MolnarGyula	head	party.MSZP	2016-06-25	2018-04-14
+MolnarZsolt	member	party.MSZP	2006	
+MoringJozsefAttila	member	party.KDNP	2005	
+NacsaLorinc	member	party.KDNP	2009	
+NagyCsaba	member	party.Fidesz	1988-03-30	
+NavracsicsTibor	member	party.Fidesz	1998	
+NavracsicsTibor	member	party.KDNP	2003	
+NemethSzilard	member	party.Fidesz	1996	
+NemethSzilard	deputyHead	party.Fidesz	2015-12-10	
+NemethZsolt	member	party.Fidesz	1988-03-30	
+NiedermüllerPeter	deputyHead	party.DK	2011-10-22	2020-03-01
+NiedermüllerPeter	member	party.DK	2011-10-22	
+NovakElod	member	party.JOBBIK	2003-10-24	2018-06-18
+NovakElod	member	party.MiHazank	2018-06-23	
+NovakElod	deputyHead	party.MiHazank	2018-06-23	
+NovakKatalin	deputyHead	party.Fidesz	2017-09-19	2021-11-14
+NovakKatalin	member	party.Fidesz	2017-09-19	2021-11-14
+NunkovicsTibor	member	party.JOBBIK	2010	
+NyitraiZsolt	member	party.Fidesz	1994	
+OlahLajos	member	party.DK	2011-10-22	
+OrbanBalazs	member	party.Fidesz	2014	
+OrbanViktor	member	party.Fidesz	1988-03-30	
+OrbanViktor	head	party.Fidesz	2003	
+OroszAnna	member	party.Momentum	2017-03-04	
+OroszAnna	head	party.Momentum	2021-10-10	2021-11-21
+OvadiPeter	member	party.Fidesz	2014-06-06	
+PajtokGabor	member	party.Fidesz	2010	
+PanczelKaroly	member	party.Fidesz	1990	
+PapcsakFerenc	member	party.Fidesz	2010	
+PestiImre	member	party.Fidesz	2006	
+PetnehazyAttila	member	party.Fidesz	1998	
+PinterTamas	member	party.JOBBIK	2010	
+PocsJanos	member	party.Fidesz	2010	
+PogacsasTibor	member	party.Fidesz	1990	
+PosanLaszlo	member	party.Fidesz	1998	
+PotocskaneKorosiAnita	member	party.JOBBIK	2016	
+PotocskaneKorosiAnita	deputyHead	party.JOBBIK	2020-01-25	2022-05-07
+RepassyRobert	member	party.Fidesz	1993	
+RetvariBence	member	party.KDNP	2010	
+RetvariBence	deputyHead	party.KDNP	2010-12-18	
+ReveszMariusz	member	party.Fidesz	1988-03-30	
+RigLajos	member	party.JOBBIK	2008	
+RitterImre	member	party.MNOO	2014	
+RizGabor	member	party.Fidesz	2006	
+RoganAntal	member	party.Fidesz	1996	
+RubovszkyGyorgy	member	party.KDNP	1989	
+SalaczLaszlo	member	party.Fidesz	2004	
+SallaiRBenedek	member	party.LMP1	2009-02-14	2019-06-05
+SasZoltan	member	party.JOBBIK	2008	
+SchandaTamasJanos	deputyHead	party.KDNP	2020-01-18	
+SchandaTamasJanos	member	party.KDNP	2010	
+SchifferAndras	member	party.LMP1	2009-02-14	2018
+SchifferAndras	head	party.LMP1	2013	2016-05-31
+SchmuckErzsebet	member	party.LMP1	2009-02-14	2020-02-01
+SchmuckErzsebet	head	party.LMP1	2019-11-23	2020-02-01
+SchmuckErzsebet	head	party.LMP2	2020-02-01	
+SchmuckErzsebet	member	party.LMP2	2020-02-01	
+SebianPetrovszkiLaszlo	member	party.DK	2012-01-01	
+SebokEva	member	party.Momentum	2017-03-04	
+SelmecziGabriella	member	party.Fidesz	1990	
+SemjenZsolt	head	party.KDNP	2003	
+SemjenZsolt	member	party.KDNP	2003	
+SesztakMiklos	member	party.KDNP	1998	
+SimicskoIstvan	member	party.KDNP	1991	
+SimicskoIstvan	deputyHead	party.KDNP	2010-12-18	2020-01-18
+SimonMiklos	member	party.Fidesz	2002	
+SimonRobertBalazs	member	party.Fidesz	1995	
+SneiderTamas	deputyHead	party.JOBBIK	2016-05-29	2018-05-12
+SneiderTamas	head	party.JOBBIK	2018-05-12	2020-01-25
+SneiderTamas	member	party.JOBBIK	2007	2020-05-27
+SolteszMiklos	deputyHead	party.KDNP	2015-03-21	
+SolteszMiklos	member	party.KDNP	1997	
+StaudtGabor	member	party.JOBBIK	2003-10-24	
+SteinmetzAdam	member	party.JOBBIK	2017	
+StummerJanos	deputyHead	party.JOBBIK	2018-05-12	2020-01-25
+StummerJanos	member	party.JOBBIK	2009	2022-05-10
+SurjanLaszlo	deputyHead	party.KDNP	2010-12-18	2015-03-21
+SurjanLaszlo	member	party.KDNP	1989	
+SzabadiIstvan	member	party.MiHazank	2018-06-23	
+SzabolcsAttila	member	party.Fidesz	2002	
+SzaboRebeka	member	party.Parbeszed	2013-02-17	
+SzaboRebeka	head	party.Parbeszed	2022-07-10	
+SzaboSandor	member	party.MSZP	1999	
+SzaboSzabolcs	member	party.EGYUTT	2013-03-08	2018-06-02
+SzaboTimea	member	party.Parbeszed	2013-02-17	
+SzaboTimea	head	party.Parbeszed	2013-02-17	2022-07-10
+SzaboTunde	member	party.Fidesz	2014	
+SzaboZsolt	deputyHead	party.Parbeszed	2021-11-21	
+SzaboZsolt	member	party.Parbeszed	2013-02-17	
+SzakacsLaszlo	member	party.MSZP	2014	2021-06-26
+SzakacsLaszlo	deputyHead	party.MSZP	2018-06-17	2020-09-19
+SzaszfalviLaszlo	member	party.KDNP	2006	
+SzatmaryKristof	member	party.Fidesz	1993	
+SzavayIstvan	member	party.JOBBIK	2003-10-24	
+SzavayIstvan	deputyHead	party.JOBBIK	2014-06-21	2016-04-20
+SzekelySandor	member	party.Szolidaritas	2011-10-01	
+SzelBernadett	head	party.LMP1	2013	2018-08-21
+SzelBernadett	member	party.LMP1	2010	2020-02-01
+SzelBernadett	member	party.LMP2	2020-02-01	
+SzilagyiGyorgy	member	party.JOBBIK	2008	
+SzilagyiGyorgy	deputyHead	party.JOBBIK	2020-01-25	2022-05-07
+SztojkaAttila	member	party.Fidesz	2010	
+SzucsLajos	member	party.Fidesz	2001	
+TapolczaiGergely	member	party.Fidesz	2010	
+TelekiLaszlo	member	party.MSZP	2002	
+TesselyZoltan	member	party.Fidesz	2002	
+TibaIstvan	member	party.Fidesz	2002	
+TiffanZsolt	member	party.Fidesz	1998	
+TilkiAttila	member	party.Fidesz	1999	
+TobiasJozsef	member	party.MSZP	1991	
+TobiasJozsef	head	party.MSZP	2014-07-19	2016-06-25
+TomposMartonKristof	member	party.Momentum	2017-03-04	
+TordaiBence	member	party.Parbeszed	2013-02-17	
+TordaiBence	deputyHead	party.Parbeszed	2020-09-13	2022-07-09
+TordaiBence	head	party.Parbeszed	2022-07-10	
+ToroczkaiLaszlo	deputyHead	party.JOBBIK	2016-05-29	2018-05-12
+ToroczkaiLaszlo	member	party.JOBBIK	2016-05-29	2018-05-12
+ToroczkaiLaszlo	head	party.MiHazank	2018-06-23	
+ToroczkaiLaszlo	member	party.MiHazank	2018-06-23	
+ToroGabor	member	party.Fidesz	1994	
+TothBertalan	head	party.MSZP	2018-06-17	
+TothBertalan	member	party.MSZP	1992	
+TothCsaba	member	party.MSZP	2000	
+TothEndre	member	party.Momentum	2017-03-04	
+TukacsIstvan	member	party.MSZP	1989-11-21	
+TuriKovacsBela	member	party.Fidesz	2002	
+TuzsonBence	member	party.Fidesz	1998	
+UjhelyiIstvan	deputyHead	party.MSZP	2014-07-19	2017-10-02
+UjhelyiIstvan	member	party.MSZP	1993	
+UngarPeter	member	party.LMP1	2013	2020-02-01
+UngarPeter	member	party.LMP2	2020-02-01	
+UngarPeter	head	party.LMP2	2022-08-27	
+VadaiAgnes	member	party.MSZP	1999	2011
+VadaiAgnes	deputyHead	party.DK	2011-10-22	
+VadaiAgnes	member	party.DK	2011-10-22	
+VagoSebestyen	member	party.JOBBIK	2007	
+VajdaZoltan	member	party.EGYUTT	2014	2018-05-01
+VantaraGyula	member	party.Fidesz	2006	
+VargaDammAndrea	member	party.JOBBIK	2018	2020-05-27
+VargaFerenc	member	party.JOBBIK	2021-10-01	
+VargaGabor	member	party.Fidesz	2002	
+VargaJozsef	member	party.Fidesz	1994	
+VargaLaszlo	member	party.MSZP	2000	
+VargaZoltan	member	party.MSZP	2005	2010
+VargaZoltan	member	party.DK	2014	
+VarghaTamas	member	party.Fidesz	2010	
+VarjuLaszlo	member	party.MSZP	1989-11-21	2011-10-21
+VarjuLaszlo	member	party.DK	2011-10-22	
+VarjuLaszlo	deputyHead	party.DK	2017-03-04	
+VasImre	member	party.Fidesz	2010	
+VecseyLaszlo	member	party.Fidesz	1989	
+VejkeyImre	member	party.KDNP	2003	
+VelezArpad	member	party.MSZP	2002	
+VighLaszlo	member	party.Fidesz	1994	
+VinnaiGyozo	member	party.Fidesz	2002	
+VitalyosEszter	member	party.Fidesz	2021	
+VitanyiIstvan	member	party.Fidesz	1998	
+VNaszalyiMarta	deputyHead	party.Parbeszed	2022-07-10	
+VNaszalyiMarta	member	party.Parbeszed	2022-07-10	
+VNemethZsolt	member	party.Fidesz	2006	
+VolnerJanos	member	party.JOBBIK	2009	2018-10-16
+VolnerJanos	deputyHead	party.JOBBIK	2016-05-29	2018-10-16
+VolnerJanos	member	party.MiHazank	2018-06-23	2019-09-11
+VolnerJanos	head	party.Volner	2020-09-19	2022-05-08
+VolnerJanos	member	party.Volner	2020-09-19	2022-05-08
+VolnerJanos	head	party.Huxit	2022-05-08	
+VolnerJanos	member	party.Huxit	2022-05-08	
+VolnerPal	member	party.Fidesz	2010	
+VonaGabor	member	party.JOBBIK	2003-10-24	2019-10-29
+VonaGabor	head	party.JOBBIK	2006	2018-04-10
+WitzmannMihaly	member	party.Fidesz	2014	
+ZKarpatDaniel	member	party.JOBBIK	2009	
+ZKarpatDaniel	deputyHead	party.JOBBIK	2014-06-21	
+ZsigmondBarnaPal	member	party.Fidesz	2014	
+ZsigoRobert	member	party.Fidesz	1991	
